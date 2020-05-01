@@ -11,6 +11,7 @@ You will be able to:
 * Use basic commands to navigate the command line
 * Summarize why virtual environments are used
 * Use a virtual environment
+* Use IDE to submit code changes
 
 ## Cloning this Repository
 
